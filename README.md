@@ -11,9 +11,3 @@
 
 İster yoğun bir iş gününüz olsun, ister kişisel hedefleriniz; bu chatbot gününüzü planlamanızda size pratik ve etkili bir çözüm sunar!
 
----
-
-## Kullanım
-
-Buraya kullanım talimatları ekleyebilirsiniz.
-
