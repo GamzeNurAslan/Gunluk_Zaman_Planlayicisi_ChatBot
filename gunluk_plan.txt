@@ -1,0 +1,13 @@
+📋 Saat Saat Günlük Plan:
+06:00 - 06:15 → x
+06:15 - 07:15 → y
+07:15 - 07:42 → z
+
+✅ Tamamlanan Görevler:
+- x
+- z
+
+❌ Tamamlanamayan Görevler:
+- y
+
+# mesela
